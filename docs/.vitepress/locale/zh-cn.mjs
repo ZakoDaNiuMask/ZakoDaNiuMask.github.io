@@ -39,11 +39,11 @@ export default {
           { text: "常见问题", link: "/zh-Hans/guide/faq" },
         ],
       },
-      { text: "关于 ReSukiSU", link: "/zh-Hans/guide/introduce" },
+      { text: "关于 ZakoDaNiuMask", link: "/zh-Hans/guide/introduce" },
     ],
     editLink: {
       text: "在 GitHub 上编辑此页面",
-      pattern: "https://github.com/ReSukiSU/ReSukiSU.github.io/edit/main/docs/:path",
+      pattern: "https://github.com/ZakoDaNiuMask/ZakoDaNiuMask.github.io/edit/main/docs/:path",
     },
     docFooter: {
       prev: "上一页",

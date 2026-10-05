@@ -1,4 +1,4 @@
-# Installing ReSukiSU {#install}
+# Installing ZakoDaNiuMask {#install}
 
 ::: tip
 We assume you already have basic firmware flashing skills and bricking recovery knowledge, so this section of the documentation will not be overly detailed.
@@ -7,7 +7,7 @@ We assume you already have basic firmware flashing skills and bricking recovery 
 ## Get Manager {#Get-manager}
 
 ::: tip Still Work in Progress...
-Because ReSukiSU's manager have too much things to do,so ReSukiSU will not be released on GitHub Release. However, you can obtain the manager currently under development via [`nightly.link`](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) or [`GitHub Action`](https://github.com/ReSukiSU/ReSukiSU/actions/workflows/build-manager.yml?query=branch:main).
+Because ZakoDaNiuMask's manager have too much things to do,so ZakoDaNiuMask will not be released on GitHub Release. However, you can obtain the manager currently under development via [`nightly.link`](https://nightly.link/ZakoDaNiuMask/ZakoDaNiuMask/workflows/build-manager/main/Manager-release.zip) or [`GitHub Action`](https://github.com/ZakoDaNiuMask/ZakoDaNiuMask/actions/workflows/build-manager.yml?query=branch:main).
 
 (Nightly.link allows downloading files without logging into a GitHub account.)
 :::
@@ -18,7 +18,7 @@ Except for the _main_ branch, all other branches are testing branches. Unless re
 
 ## Install {#Installation}
 
-ReSukiSU provides the following two installation methods:
+ZakoDaNiuMask provides the following two installation methods:
 
 ### LKM Installation {#LKM}
 
@@ -28,7 +28,7 @@ This part has been moved to [this page](./install/gki.md#lkm).
 
 ### GKI2/GKI1/Non-GKI Kernel (AnyKernel3) Installation {#builtin}
 
-Although the ReSukiSU Manager has a built-in AnyKernel3 installation method, this option will not be displayed if the Manager does not have ROOT access. You may need to perform the following steps to enable it
+Although the ZakoDaNiuMask Manager has a built-in AnyKernel3 installation method, this option will not be displayed if the Manager does not have ROOT access. You may need to perform the following steps to enable it
 
 1. Flash AnyKernel3 after LKM installation to grant root.
 

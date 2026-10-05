@@ -7,7 +7,7 @@ cbf: [4] # Don't enable code fold in deprecated hook,it will cause bug...
 ## Manual hooks
 
 ::: danger Notice：
-ReSukiSU will check every hook here, and if any are missing, it will **cause compilation to fail**.
+ZakoDaNiuMask will check every hook here, and if any are missing, it will **cause compilation to fail**.
 :::
 
 :::info info
@@ -544,7 +544,7 @@ You can choose enable `CONFIG_KALLSYMS_ALL` Kconfig to avoid these changes.
 :::
 
 ::: danger Notice：
-When kernel does not enable `CONFIG_KALLSYMS_ALL` Kconfig, ReSukiSU will check every exports here, if any are missing, it will **cause compilation to fail**.
+When kernel does not enable `CONFIG_KALLSYMS_ALL` Kconfig, ZakoDaNiuMask will check every exports here, if any are missing, it will **cause compilation to fail**.
 :::
 
 ### write_op export <Badge type="danger" text="Required"/>

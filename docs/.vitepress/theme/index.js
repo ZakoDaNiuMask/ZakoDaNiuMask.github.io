@@ -43,12 +43,12 @@ const FullScreen404 = defineComponent({
       what_happened: "The page you requested does not exist.",
       what_can_i_do: 'Check the URL or <a href="/">return to the homepage</a>.',
       perf_sec_by: {
-        text: "ReSukiSU Development Team",
-        link: "https://github.com/ReSukiSU",
+        text: "ZakoDaNiuMask Development Team",
+        link: "https://github.com/ZakoDaNiuMask",
       },
       more_information: {
-        text: "ReSukiSU Development Team Issue Tracker",
-        link: "https://github.com/ReSukiSU/ReSukiSU.github.io/issues",
+        text: "ZakoDaNiuMask Development Team Issue Tracker",
+        link: "https://github.com/ZakoDaNiuMask/ZakoDaNiuMask.github.io/issues",
       },
     });
     return () =>
@@ -68,7 +68,7 @@ const FullScreen404 = defineComponent({
 function autoLocaleRedirect() {
   if (typeof window === "undefined") return;
   try {
-    const KEY = "resukisu-locale";
+    const KEY = "zakodaniumask-locale";
     if (localStorage.getItem(KEY)) return;
     const path = window.location.pathname;
     if (path.startsWith("/zh-Hans")) {

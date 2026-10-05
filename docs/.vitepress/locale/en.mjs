@@ -38,11 +38,11 @@ export default {
           { text: "FAQ", link: "/guide/faq" },
         ],
       },
-      { text: "About ReSukiSU", link: "/guide/introduce" },
+      { text: "About ZakoDaNiuMask", link: "/guide/introduce" },
     ],
     editLink: {
       text: "Edit page on GitHub",
-      pattern: "https://github.com/ReSukiSU/ReSukiSU.github.io/edit/main/docs/:path",
+      pattern: "https://github.com/ZakoDaNiuMask/ZakoDaNiuMask.github.io/edit/main/docs/:path",
     },
     docFooter: {
       prev: "Previous page",

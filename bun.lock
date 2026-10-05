@@ -3,7 +3,7 @@
   "configVersion": 0,
   "workspaces": {
     "": {
-      "name": "resukisu-docs",
+      "name": "zakodaniumask-docs",
       "dependencies": {
         "@nolebase/markdown-it-bi-directional-links": "^2.18.2",
         "@nolebase/vitepress-plugin-enhanced-mark": "^2.18.2",

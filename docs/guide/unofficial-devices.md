@@ -5,15 +5,15 @@ gitChangelog: false
 # Unofficially supported devices/project
 
 ::: warning
-In this page, there are kernels/projects for GKI/non-GKI devices supporting ReSukiSU maintained by other developers.
+In this page, there are kernels/projects for GKI/non-GKI devices supporting ZakoDaNiuMask maintained by other developers.
 :::
 
 ::: warning
-This page is intended only to help you find the source code/project corresponding to your device. It **DOES NOT** mean that the source code/project has been reviewed by ReSukiSU developers. You should use it at your own risk.
+This page is intended only to help you find the source code/project corresponding to your device. It **DOES NOT** mean that the source code/project has been reviewed by ZakoDaNiuMask developers. You should use it at your own risk.
 :::
 
 ::: info
-You can [submit a issue](https://github.com/ReSukiSU/ReSukiSU.github.io/issues) to the document repo to add devices you maintaining.
+You can [submit a issue](https://github.com/ZakoDaNiuMask/ZakoDaNiuMask.github.io/issues) to the document repo to add devices you maintaining.
 :::
 
 <script setup>

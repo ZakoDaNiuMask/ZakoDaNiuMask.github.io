@@ -1,18 +1,18 @@
 name: Contribute to Unofficially Supported Oppo Device
-description: Add your device kernel source to ReSukiSU's Unofficially Supported Oppo Device List,Use this template also add device to unofficially supported device list
+description: Add your device kernel source to ZakoDaNiuMask's Unofficially Supported Oppo Device List,Use this template also add device to unofficially supported device list
 title: "[Add Oppo Device]: "
 labels: ["add-oppo-device"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for supporting ReSukiSU!
+        Thanks for supporting ZakoDaNiuMask!
   - type: input
     id: repo-url
     attributes:
       label: Repository URL
       description: Your repository URL
-      placeholder: https://github.com/ReSukiSU/ReSukiSU
+      placeholder: https://github.com/ZakoDaNiuMask/ZakoDaNiuMask
     validations:
       required: true
   - type: input

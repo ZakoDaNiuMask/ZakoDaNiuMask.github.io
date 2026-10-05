@@ -13,21 +13,21 @@ import locale from "./locale/index.mjs";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "ReSukiSU",
+  title: "ZakoDaNiuMask",
   description: "A more stable fork of SukiSU — KernelSU-based ROOT with enhanced Non-GKI compatibility.",
 
   sitemap: {
-    hostname: "https://resukisu.org",
+    hostname: "https://zakodaniumask.github.io",
   },
 
   locales: locale.locales,
 
   head: [
     ["link", { rel: "icon", href: "/favicon.svg" }],
-    ["link", { rel: "canonical", href: "https://resukisu.org/" }],
-    ["link", { rel: "alternate", hreflang: "en", href: "https://resukisu.org/" }],
-    ["link", { rel: "alternate", hreflang: "zh-CN", href: "https://resukisu.org/zh-Hans/" }],
-    ["link", { rel: "alternate", hreflang: "x-default", href: "https://resukisu.org/" }],
+    ["link", { rel: "canonical", href: "https://zakodaniumask.github.io/" }],
+    ["link", { rel: "alternate", hreflang: "en", href: "https://zakodaniumask.github.io/" }],
+    ["link", { rel: "alternate", hreflang: "zh-CN", href: "https://zakodaniumask.github.io/zh-Hans/" }],
+    ["link", { rel: "alternate", hreflang: "x-default", href: "https://zakodaniumask.github.io/" }],
     ["link", { rel: "preconnect", href: "https://cdn.jsdelivr.net/" }],
     [
       "link",
@@ -74,15 +74,15 @@ export default defineConfig({
       "meta",
       {
         name: "keywords",
-        content: "ReSukiSU, SukiSU, KernelSU, Android, ROOT, Custom Kernel, GKI, Non-GKI, SukiSU Ultra, Android Root, KernelSU Modules",
+        content: "ZakoDaNiuMask, SukiSU, KernelSU, Android, ROOT, Custom Kernel, GKI, Non-GKI, SukiSU Ultra, Android Root, KernelSU Modules",
       },
     ],
-    ["meta", { name: "author", content: "ReSukiSU Development" }],
-    ["meta", { name: "application-name", content: "ReSukiSU" }],
-    ["meta", { name: "apple-mobile-web-app-title", content: "ReSukiSU" }],
+    ["meta", { name: "author", content: "ZakoDaNiuMask Development" }],
+    ["meta", { name: "application-name", content: "ZakoDaNiuMask" }],
+    ["meta", { name: "apple-mobile-web-app-title", content: "ZakoDaNiuMask" }],
     ["meta", { name: "apple-mobile-web-app-status-bar-style", content: "default" }],
 
-    ["meta", { property: "og:title", content: "ReSukiSU — Make SukiSU Great Again" }],
+    ["meta", { property: "og:title", content: "ZakoDaNiuMask — Make SukiSU Great Again" }],
     [
       "meta",
       {
@@ -91,16 +91,16 @@ export default defineConfig({
       },
     ],
     ["meta", { property: "og:type", content: "website" }],
-    ["meta", { property: "og:site_name", content: "ReSukiSU" }],
-    ["meta", { property: "og:url", content: "https://resukisu.org/" }],
-    ["meta", { property: "og:image", content: "https://resukisu.org/logo.svg" }],
-    ["meta", { property: "og:image:alt", content: "ReSukiSU Logo" }],
+    ["meta", { property: "og:site_name", content: "ZakoDaNiuMask" }],
+    ["meta", { property: "og:url", content: "https://zakodaniumask.github.io/" }],
+    ["meta", { property: "og:image", content: "https://zakodaniumask.github.io/logo.svg" }],
+    ["meta", { property: "og:image:alt", content: "ZakoDaNiuMask Logo" }],
     ["meta", { property: "og:image:width", content: "512" }],
     ["meta", { property: "og:image:height", content: "512" }],
     ["meta", { property: "og:locale", content: "en_US" }],
     ["meta", { property: "og:locale:alternate", content: "zh_CN" }],
     ["meta", { name: "twitter:card", content: "summary_large_image" }],
-    ["meta", { name: "twitter:title", content: "ReSukiSU — Make SukiSU Great Again" }],
+    ["meta", { name: "twitter:title", content: "ZakoDaNiuMask — Make SukiSU Great Again" }],
     [
       "meta",
       {
@@ -108,8 +108,8 @@ export default defineConfig({
         content: "A more stable fork of SukiSU. KernelSU-based ROOT with enhanced Non-GKI compatibility, minimal hooks, and multi-manager support.",
       },
     ],
-    ["meta", { name: "twitter:image", content: "https://resukisu.org/logo.svg" }],
-    ["meta", { name: "twitter:image:alt", content: "ReSukiSU Logo" }],
+    ["meta", { name: "twitter:image", content: "https://zakodaniumask.github.io/logo.svg" }],
+    ["meta", { name: "twitter:image:alt", content: "ZakoDaNiuMask Logo" }],
     [
       "script",
       { type: "application/ld+json" },
@@ -118,15 +118,15 @@ export default defineConfig({
         "@graph": [
           {
             "@type": "Organization",
-            name: "ReSukiSU",
-            url: "https://resukisu.org/",
-            logo: "https://resukisu.org/logo.svg",
-            sameAs: ["https://github.com/ReSukiSU", "https://t.me/ReSukiSU"],
+            name: "ZakoDaNiuMask",
+            url: "https://zakodaniumask.github.io/",
+            logo: "https://zakodaniumask.github.io/logo.svg",
+            sameAs: ["https://github.com/ZakoDaNiuMask", "https://t.me/ZakoDaNiuMask"],
           },
           {
             "@type": "WebSite",
-            name: "ReSukiSU",
-            url: "https://resukisu.org/",
+            name: "ZakoDaNiuMask",
+            url: "https://zakodaniumask.github.io/",
             inLanguage: ["en", "zh-CN"],
           },
         ],
@@ -172,11 +172,11 @@ export default defineConfig({
       },
     },
     socialLinks: [
-      { icon: "github", link: "https://github.com/ReSukiSU" },
-      { icon: "telegram", link: "https://t.me/ReSukiSU" },
+      { icon: "github", link: "https://github.com/ZakoDaNiuMask" },
+      { icon: "telegram", link: "https://t.me/ZakoDaNiuMask" },
     ],
     footer: {
-      message: "Documented with ❤️ by ReSukiSU Development",
+      message: "Documented with ❤️ by ZakoDaNiuMask Development",
       copyright: "Copyright © 2025-2026 ReSukiSU, under MIT License",
     },
 
@@ -203,7 +203,7 @@ export default defineConfig({
     plugins: [
       llmstxt(),
       GitChangelog({
-        repoURL: () => "https://github.com/ReSukiSU/ReSukiSU.github.io",
+        repoURL: () => "https://github.com/ZakoDaNiuMask/ZakoDaNiuMask.github.io",
       }),
       GitChangelogMarkdownSection({
         exclude: (id) => id.endsWith("index.md") || id.endsWith("sponsors.md"),

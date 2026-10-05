@@ -1,6 +1,6 @@
-# About ReSukiSU
+# About ZakoDaNiuMask
 
-## What is ReSukiSU? {#what-is-resukisu}
+## What is ZakoDaNiuMask? {#what-is-zakodaniumask}
 
 A downstream fork of SukiSU Ultra that removes obsolete or unnecessary components.
 

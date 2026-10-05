@@ -3,7 +3,7 @@ layout: page
 sidebar: false
 aside: false
 title: Sponsors
-description: Support ReSukiSU and help the project grow.
+description: Support ZakoDaNiuMask and help the project grow.
 ---
 
 <script setup>

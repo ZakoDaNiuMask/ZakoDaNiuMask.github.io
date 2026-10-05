@@ -7,7 +7,7 @@ cbf: [4] # 在弃置hook中要禁用代码折叠，插件会搞出渲染问题�
 ## 手动挂钩 {#scope-minimized-hooks}
 
 ::: danger Notice：
-ReSukiSU 将会检查此处每一条 hook，如果缺少，将会**导致编译失败**
+ZakoDaNiuMask 将会检查此处每一条 hook，如果缺少，将会**导致编译失败**
 :::
 
 :::info 提示
@@ -542,7 +542,7 @@ index a3bef5bd..0b116d7c 100644
 :::
 
 ::: danger Notice：
-在内核未开启 `CONFIG_KALLSYMS_ALL` 配置下，ReSukiSU 将会检查此处每一条 export，如果缺少，将会**导致编译失败**
+在内核未开启 `CONFIG_KALLSYMS_ALL` 配置下，ZakoDaNiuMask 将会检查此处每一条 export，如果缺少，将会**导致编译失败**
 :::
 
 ### write_op export <Badge type="danger" text="必加"/>

@@ -1,6 +1,6 @@
 # OPPO Devices
 
-This page covers the ReSukiSU installation process for OPPO devices.
+This page covers the ZakoDaNiuMask installation process for OPPO devices.
 
 ::: warning
 Back up important data and prepare the stock images matching your current system version before flashing.
@@ -14,7 +14,7 @@ LKM installation is identical to that on a standard GKI device. See [LKM install
 
 Due to OPPO's modifications to `f2fs`, generic GKI images cannot be used. You need to compile a kernel yourself from OPPO's open-source code. See the [GKI device kernel build guide](./gki#built-in).
 
-The following projects also use `GitHub Actions` to quickly build kernel images with `ReSukiSU`.
+The following projects also use `GitHub Actions` to quickly build kernel images with `ZakoDaNiuMask`.
 
 <script setup>
 import data from '../../oppo_kernel_action_build.json'

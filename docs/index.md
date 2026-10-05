@@ -3,26 +3,26 @@
 layout: home
 
 hero:
-  name: "ReSukiSU"
+  name: "ZakoDaNiuMask"
   text: "A more stable fork of SukiSU"
   tagline: "KernelSU-based ROOT with enhanced Non-GKI compatibility, minimal hooks, and multi-manager support."
   image:
     src: /logo.svg
-    alt: ReSukiSU Logo
+    alt: ZakoDaNiuMask Logo
   actions:
     - theme: brand
       text: Get Started
       link: /guide/install
     - theme: alt
       text: GitHub
-      link: https://github.com/ReSukiSU/ReSukiSU
+      link: https://github.com/ZakoDaNiuMask/ZakoDaNiuMask
     - theme: alt
       text: About
       link: /guide/introduce
 
 features:
   - title: KernelSU-based ROOT
-    details: ReSukiSU is a KernelSU downstream project, derived from the SukiSU Ultra branch with enhanced stability.
+    details: ZakoDaNiuMask is a KernelSU downstream project, derived from the SukiSU Ultra branch with enhanced stability.
     icon: <i class="ri-android-fill"></i>
   - title: Non-GKI Support
     details: Focused on Non-GKI kernel compatibility, ensuring older devices work flawlessly without breaking.
@@ -32,7 +32,7 @@ features:
     icon: <i class="ri-flashlight-fill"></i>
     link: ./guide/manual-integrate.md
   - title: Multi-Manager Support
-    details: ReSukiSU Kernel supports KernelSU/MKSU/RKSU/SukiSU Ultra's manager by default.
+    details: ZakoDaNiuMask Kernel supports KernelSU/MKSU/RKSU/SukiSU Ultra's manager by default.
     icon: <i class="ri-settings-3-fill"></i>
   - title: Enhanced Security
     details: Improved security measures with better module isolation and permission handling.
@@ -40,5 +40,5 @@ features:
   - title: Active Community
     details: Join our growing community on Telegram for support, updates, and discussions.
     icon: <i class="ri-telegram-fill"></i>
-    link: https://t.me/ReSukiSU
+    link: https://t.me/ZakoDaNiuMask
 ---

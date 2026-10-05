@@ -10,7 +10,7 @@ const copyIn = (bytes) => {
 };
 
 const ARTIFACTS_BASE =
-  "https://api.shiina.xyz/proxy?url=https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main";
+  "https://api.shiina.xyz/proxy?url=https://nightly.link/ZakoDaNiuMask/ZakoDaNiuMask/workflows/build-manager/main";
 
 async function unzipEntry(buffer, wanted) {
   const data = new Uint8Array(buffer);

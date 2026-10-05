@@ -1,8 +1,8 @@
-# ReSukiSU-Docs
+# ZakoDaNiuMask-Docs
 
-The ReSukiSU's Document Website
+The ZakoDaNiuMask's Document Website
 
-[![Pages](https://github.com/ReSukiSU/ReSukiSU.github.io/actions/workflows/main.yml/badge.svg)](https://github.com/ReSukiSU/ReSukiSU.github.io/actions/workflows/main.yml)
+[![Pages](https://github.com/ZakoDaNiuMask/ZakoDaNiuMask.github.io/actions/workflows/main.yml/badge.svg)](https://github.com/ZakoDaNiuMask/ZakoDaNiuMask.github.io/actions/workflows/main.yml)
 
 ## Development
 

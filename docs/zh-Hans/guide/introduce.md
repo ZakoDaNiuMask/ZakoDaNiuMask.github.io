@@ -1,6 +1,6 @@
-# 关于 ReSukiSU
+# 关于 ZakoDaNiuMask
 
-## 什么是 ReSukiSU? {#what-is-resukisu}
+## 什么是 ZakoDaNiuMask? {#what-is-zakodaniumask}
 
 一个SukiSU Ultra的下游fork，移除一些已经过时或者不需要的东西
 

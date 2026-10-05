@@ -49,7 +49,7 @@ export const gkiLkmI18n = {
   zh: {
     summary: "在线修补 LKM",
     sub: "本地处理 · ksuinit 与 LKM 从 CI 下载",
-    intro: "镜像在本地处理；ksuinit 和匹配的 LKM 仅在开始修补后从 ReSukiSU CI 下载。",
+    intro: "镜像在本地处理；ksuinit 和匹配的 LKM 仅在开始修补后从 ZakoDaNiuMask CI 下载。",
     steps: { upload: "上传镜像", kmi: "选择 KMI", patch: "注入 LKM", done: "下载" },
     choose: "待修补镜像",
     working: "正在修补…",
@@ -75,7 +75,7 @@ export const gkiLkmI18n = {
     summary: "Online LKM patching",
     sub: "Images processed locally · assets fetched from CI on demand",
     intro:
-      "Images are processed locally. ksuinit and the matching LKM are downloaded from ReSukiSU CI only after patching starts.",
+      "Images are processed locally. ksuinit and the matching LKM are downloaded from ZakoDaNiuMask CI only after patching starts.",
     steps: { upload: "Upload image", kmi: "Select KMI", patch: "Inject LKM", done: "Download" },
     choose: "Image to patch",
     working: "Patching…",
